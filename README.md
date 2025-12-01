@@ -47,7 +47,7 @@
 - **telegram作者**：https://t.me/ym94203
 - **Cloudflare Docs支持**: https://developers.cloudflare.com/
 
-🫡   致敬原版作者：  Alexandre_Kojeve
+    致敬原版作者：  Alexandre_Kojeve
 
  ⚠️ 版权所有者：    ym94203
  
